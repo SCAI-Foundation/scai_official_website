@@ -10,7 +10,7 @@
     <StakingSection />
 
     <!-- 团队介绍区域 -->
-    <TeamSection />
+    <!-- <TeamSection /> -->
 
     <!-- 合作伙伴区域 -->
     <PartnersSection />
